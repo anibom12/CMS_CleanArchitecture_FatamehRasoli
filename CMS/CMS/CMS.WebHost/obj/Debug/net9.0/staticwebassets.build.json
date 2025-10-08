@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "B7fC7P4nStSWdn8kT9/nvyD0zSSDeORvuBMJEH38qMo=",
+  "Source": "CMS.WebHost",
+  "BasePath": "_content/CMS.WebHost",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
